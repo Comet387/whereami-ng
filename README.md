@@ -158,4 +158,4 @@ whereami-ng/
 
 ## License
 
-MIT
+GNU Affero General Public License v3.0
